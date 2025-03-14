@@ -4,6 +4,8 @@
 
 [![Nostalgiacade Gaming](https://img.shields.io/badge/Nostalgiacade_Gaming-ff0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@nostalgiacade) [![Nostalgiacade Beats](https://img.shields.io/badge/Nostalgiacade_Beats-ff0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/channel/UCDPWZIa6af90b7l3RUScLQA) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@nostalgiacadebeats) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/emerald_voidxv/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/EmeraldVoid) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=Buy+Me+A+Coffee&logoColor=ffffff)](https://www.buymeacoffee.com/frostkurti0) [![Fandom Wiki](https://img.shields.io/badge/Fandom_Wiki-FA005A?style=for-the-badge&logo=fandom&logoColor=ffffff)](https://notalgiacade-beats.fandom.com/wiki/Notalgiacade_Beats_Wiki) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/emerald_void) [![Kofi](https://img.shields.io/badge/Kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=ffffff)](Ko-fi.com/atomicquillpublishing)
 
+*Last Updated 3/14/2025*
+
 # Software
 
 | Software          | Link                                                                                                               | Alternatives                                                                                 |
@@ -31,3 +33,4 @@
 | Tawmae's Channel Point Auction              | [Tawmae's Channel Point Auction](https://tawmae.github.io/channel_point_auction.html)                             |
 | Tawmae's Ad Notification                    | [Tawmae's Ad Notification](https://tawmae.github.io/ads.html)                                                     |
 | Tawmae's Basic Twitch Alerts                | [Tawmae's Basic Twitch Alerts](https://tawmae.github.io/basic_twitch_alerts.html)                                  |
+| Nutty's Youtube Music Widget                | [Nutty's YouTube Music Widget](https://nutty.gg/products/youtube-music-widget)                                  |
