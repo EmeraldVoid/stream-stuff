@@ -6,7 +6,7 @@
 
 This is the 2026 edition of my software and hardware recommendations list. Since publishing the original version, a number of new applications and tools have become available, while others were simply not on my radar at the time.
 
-If you are interested in previous versions, you can browse the [archive]() of past lists.
+If you are interested in previous versions, you can browse the [archive](https://github.com/EmeraldVoid/stream-stuff/tree/main/Archived%20Lists) of past lists.
 
 
 | Software           | Primary Use                                                | Download                                                  | Alternatives                                                                                    |
