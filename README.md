@@ -17,7 +17,7 @@ If you are interested in previous versions, you can browse the [archive](https:/
 | Adobe Premiere Pro | Professional video editing                                 | [Download](https://www.adobe.com/products/premiere.html)  | [DaVinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)                |
 | Affinity Suite     | Graphic design, publishing, and PDF creation               | [Download](https://affinity.serif.com/)                   | Adobe Creative Cloud, Canva                                                                     |
 
-[!NOTE]
+> [!NOTE]
 > I have not personally tested every alternative listed here. Some are based on community recommendations and general awareness rather than direct experience. This is not intended to be a comprehensive directory—just a curated collection of tools and alternatives that may be worth exploring.
 
 
