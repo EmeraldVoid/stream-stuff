@@ -18,7 +18,7 @@ If you are interested in previous versions, you can browse the [archive](https:/
 | Affinity Suite     | Graphic design, publishing, and PDF creation               | [Download](https://affinity.serif.com/)                   | Adobe Creative Cloud, Canva                                                                     |
 
 > [!NOTE]
-> I have not personally tested every alternative listed here. Some are based on community recommendations and general awareness rather than direct experience. This is not intended to be a comprehensive directory—just a curated collection of tools and alternatives that may be worth exploring.
+> *I have not personally tested every alternative listed here. Some are based on community recommendations and general awareness rather than direct experience. This is not intended to be a comprehensive directory—just a curated collection of tools and alternatives that may be worth exploring.*
 
 
 | Resource                              | Link                                                                                                                               |
